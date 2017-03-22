@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+    <string name="comm_error_result_illegal">BaseLibrary</string>
+    <string name="comm_error_timeout">网络超时</string>
+    <string name="comm_error_none_network">网络错误</string>
+</resources>
